@@ -3,6 +3,7 @@ The Team 2 has successfully completed registering for US Imagine Cup 2015. The s
 
 Team Description:  
   We are Graduate Students majoring in Computer Systems Engineering from the University Of Houston-Central Campus, Houston, Texas. We are a team of FIVE: 
+  
   1) Adisesha Manchala - Team Lead & Lead Sound Designer
   Has a well versed experience in Digital Sound Design. Creates the level introductions and action sounds. 
   
